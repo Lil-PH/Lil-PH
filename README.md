@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=36&center=true&vCenter=true&width=1099&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Silva+Arnaut;I'm++Studying+Systems+Analysis+and+Development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
+<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lil-PH&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique Silva Arnaut github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-PH&layout=compact&hide_border=true&title_color=9745f5&text_color=9745f5&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-PH&layout=compact&hide_border=true&title_color=9745f5&text_color=9745f5&bg_color=0d1117"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lil-PH&bg_color=000000&color=9745f5&line=9745f5&point=9745f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -34,6 +34,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=JAVA&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
@@ -53,7 +54,15 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:pedrohenrique.arnaut019@gmail.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/pedro-henrique-silva-arnaut-7a9971245)
+
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lil-PH/Lil-PH/output/github-contribution-grid-snake-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lil-PH/Lil-PH/output/github-contribution-grid-snake-dark.svg"/>
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lil-PH/Lil-PH/output/github-contribution-grid-snake.svg"/>
+  </picture>
+
   
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
