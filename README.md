@@ -54,6 +54,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:pedrohenrique.arnaut019@gmail.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/pedro-henrique-silva-arnaut-7a9971245)
+  [![Replit](https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=Replit&logoColor=9745f5)](https://replit.com/@Pedro-Henriq196)
 
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lil-PH/Lil-PH/output/github-contribution-grid-snake-dark.svg"/>
