@@ -63,11 +63,12 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/pedro-henrique-silva-arnaut-7a9971245)
   [![Replit](https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=Replit&logoColor=9745f5)](https://replit.com/@Pedro-Henriq196)
 
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lil-PH/Lil-PH/output/github-contribution-grid-snake-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lil-PH/Lil-PH/output/github-contribution-grid-snake-dark.svg"/>
-      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lil-PH/Lil-PH/output/github-contribution-grid-snake.svg"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg"/>
+  <img alt="Breakout Game" src="images/breakout-light.svg"/>
+</picture>
+
 
   
 </div>
