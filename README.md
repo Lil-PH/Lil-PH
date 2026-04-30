@@ -60,7 +60,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:pedrohenrique.arnaut019@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/pedro-henrique-silva-arnaut-7a9971245)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](www.linkedin.com/in/pedro-henrique-silva-arnaut)
   [![Replit](https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=Replit&logoColor=9745f5)](https://replit.com/@Pedro-Henriq196)
 
 <picture>
